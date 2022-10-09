@@ -1,0 +1,90 @@
+﻿Technology,Vendor,Year,Mean read length
+sanger,Sanger,1977,100
+sanger,Sanger,1980,250
+"AB370A Sanger, slab gel",Sanger,1986,600
+Slab gel,Sanger,1992,450
+Capillary array electrophoresis,Sanger,1992,350
+sanger,Sanger,1995,500
+Pyrosequencing,454,2000,200
+Capillary array electrophoresis,Sanger,2000,1300
+Pyrosequencing,454,2002,100
+Capillary array electrophoresis,Sanger,2002,761
+SOLiD,SOLiD,2007,35
+Illumina (Solexa),Illumina,2007,35
+Microchip,Microchip,2008,600
+454 GS FLX Titanium (2008),454,2008,700
+454 GS Junior,454,2009,400
+SMRT C1,PacBio,2009,1100
+solexa GA,Illumina,2009,150
+Illumina HiSeq 2000,Illumina,2010,100
+Illumina MiSeq v2,Illumina,2011,150
+SOLiD 5500xl,SOLiD,2010,85
+SOLiD v4,SOLiD,2009,100
+ION PGM,454,2010,200
+Illumina HiSeq 2500,Illumina,2012,250
+Illumina Miseq v3,Illumina,2013,300
+PacBio RS C2,PacBio,2011,2566
+PacBio XL chemistry,PacBio,2012,4300
+Illumina® NextSeq™ 500,Illumina,2014,150
+PacBio RS II P4-XL,PacBio,2013,5000
+PacBio RS II P5-C3,PacBio,2013,8500
+PacBio RS II P6-C4,PacBio,2014,15000
+Sequel,PacBio,2015,15000
+Sequel V2 chemistry,PacBio,2017,18000
+Sequel V2.1 chemistry,PacBio,2018,20000
+Sequel V3.0,PacBio,2021,18654
+Sequel 6.0 chemistry,PacBio,2018,30000
+Sequel 8M chip,PacBio,2019,50000
+Sequel 8M chip HiFi,PacBio,2019,15000
+Sequel II CCS,PacBio,2019,20000
+Sequel IIe CCS,PacBio,2020,15000
+Nanopore MinION,Nanopore,2014,6000
+Nanopore MinION,Nanopore,2015,2000
+Nanopore MinION,Nanopore,2016,5000
+Nanopore R9.4,Nanopore,2018,11400
+Nanopore MinION,Nanopore,2018,23000
+Nanopore R6,Nanopore,3/1/15,"1,951"
+"Nanopore R6, R7, R7.3",Nanopore,11/25/15,"5,548"
+Nanopore R7.3,Nanopore,9/10/16,"9,701"
+Nanopore R9,Nanopore,5/31/17,"8,600"
+Nanopore R9,Nanopore,12/22/17,"13,000"
+Nanopore R9.4,Nanopore,5/24/18,"3,431"
+Nanopore R9.4,Nanopore,7/9/18,"4,106"
+Nanopore R9.4,Nanopore,7/30/18,"8,300"
+Nanopore R9,Nanopore,8/2/18,"6,450"
+Nanopore R9.4,Nanopore,8/10/18,"8,070"
+Nanopore R9.4,Nanopore,9/12/18,"3,697"
+Nanopore R9,Nanopore,9/24/18,"4,450"
+Nanopore R7.3,Nanopore,11/6/18,"5,130"
+Nanopore R9.4,Nanopore,11/19/18,"23,815"
+Nanopore R9.4,Nanopore,12/16/18,"9,665"
+Nanopore R9.5,Nanopore,2/13/19,"15,888"
+Nanopore R9.4,Nanopore,4/1/19,"7,800"
+Nanopore R9.4,Nanopore,4/23/19,"6,373"
+Nanopore R9.4,Nanopore,7/20/19,"18,350"
+CCS,PacBio,5/20/19,"20,716"
+CCS,PacBio,5/20/19,"16,014"
+HiFi,PacBio,5/20/19,"6,895"
+HiFi,PacBio,5/20/19,"7,125"
+R9.4,Nanopore,2022,"6,692"
+R10.4,Nanopore,2022,"5,216"
+R10.4,Nanopore,2022,"4,405"
+R10.4,Nanopore,2022,"2,347"
+R9.4,Nanopore,2022,"7,188"
+R9.4,Nanopore,9/17/20,"59,037"
+R9.4,Nanopore,9/17/20,"50,859"
+R9.4,Nanopore,9/17/20,"30,077"
+R9.4,Nanopore,9/17/20,"23,928"
+R9.4,Nanopore,2/7/20,"16,245"
+R9.4,Nanopore,10/1/20,"13,700"
+R9.4,Nanopore,4/17/21,"17,887"
+Sequel II,PacBio,11/10/21,"15,409"
+R9.4,Nanopore,11/10/21,"3,429"
+R9.4.1,Nanopore,11/10/21,"3,615"
+R10,Nanopore,11/10/21,"3,565"
+R10.4,Nanopore,11/10/21,"3,983"
+R9.4,Nanopore,9/12/22,"37,400"
+R9.4,Nanopore,9/12/22,"13,230"
+R9.4,Nanopore,9/12/22,"12,650"
+R9.4,Nanopore,9/12/22,"11,190"
+R9.4,Nanopore,9/12/22,"10,120"
