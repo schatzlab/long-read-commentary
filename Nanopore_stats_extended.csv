@@ -1,0 +1,13 @@
+Date,Year,Length,Length (Mbp),Ref
+12/8/14,14,"58,810",0.06,"Ashton, P.M. et al. MinION nanopore sequencing identifies the position and structure of a bacterial antibiotic resistance island. Nat Biotechnol 33, 296-300 (2015)."
+3/1/15,15,"98,366",0.10,"Laver, T. et al. Assessing the performance of the Oxford Nanopore Technologies MinION. Biomol Detect Quantif 3, 1-8 (2015)."
+11/25/15,15,"191,145",0.19,"Goodwin, S. et al. Oxford Nanopore sequencing, hybrid error correction, and de novo assembly of a eukaryotic genome. Genome Res 25, 1750-1756 (2015)."
+9/30/16,16,"250,000",0.25,https://twitter.com/torstenseemann/status/781963067890466817
+3/8/17,17,"882,000",0.88,http://enseqlopedia.com/2017/03/really-long-reads-nanopore-minion/
+4/19/17,17,"950,000",0.95,https://twitter.com/mattloose/status/854766478150836224
+12/27/17,17,"1,015,000",1.02,https://nanoporetech.com/about-us/news/world-first-continuous-dna-sequence-more-million-bases-achieved-nanopore-sequencing
+5/24/18,18,"1,345,484",1.35,"Yasodha, R. et al. Draft genome of a high value tropical timber tree, Teak (Tectona grandis L. f): insights into SSR diversity, phylogeny and conservation. DNA Res 25, 409-419 (2018)."
+11/6/18,18,"1,769,119",1.77,"Dutreux, F. et al. De novo assembly and annotation of three Leptosphaeria genomes using Oxford Nanopore MinION sequencing. Sci Data 5, 180235 (2018)."
+11/20/18,18,"2,272,580",2.27,"Payne, A., Holmes, N., Rakyan, V. & Loose, M. BulkVis: a graphical viewer for Oxford nanopore bulk FAST5 files. Bioinformatics (2018)."
+8/26/20,20,"2,860,000",2.86,https://twitter.com/circulomics/status/1298740183425142784
+9/3/20,20,"4,200,000",4.20,https://twitter.com/DanTurnez/status/1301448798158364672
